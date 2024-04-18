@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T13:17:48.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="A1Hnr0k9e1ouqysiMMBZ" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T13:18:35.549Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2shqPtgEchx5rCY-1l2l" version="24.2.5" type="github">
   <diagram name="第 1 页" id="BCKMfQlJzn4PIQiLTIYb">
     <mxGraphModel dx="2327" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,12 +15,6 @@
         </mxCell>
         <mxCell id="slsSjF4ftb8z7jjaeHYQ-68" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;mso-bidi-font-size:16.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:&lt;br/&gt;minor-latin&quot;&gt;软件需求分析&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="-65" y="490" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sLMudGpFeKpRxpYH3nQS-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sLMudGpFeKpRxpYH3nQS-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sLMudGpFeKpRxpYH3nQS-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20.52" y="399" width="760" height="186" as="geometry" />
