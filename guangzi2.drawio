@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T03:44:08.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="-j2LVKSdZZkIbjiAc4Jn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T03:53:46.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DY-DVCzfZ3Em40P8V7AL" version="24.2.5" type="github">
   <diagram name="第 1 页" id="BCKMfQlJzn4PIQiLTIYb">
-    <mxGraphModel>
+    <mxGraphModel dx="1877" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="40" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-2" value="软件需求分析" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slsSjF4ftb8z7jjaeHYQ-3" target="slsSjF4ftb8z7jjaeHYQ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;民俗活动特征&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-5" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;需要民俗活动发生的完整场景、关键信息可交互&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slsSjF4ftb8z7jjaeHYQ-14" target="slsSjF4ftb8z7jjaeHYQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-14" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;非遗保护与传播重点&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-15" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;积累大量统一规则的&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;数据，符合受众真实具身的体验&lt;/span&gt;&lt;br/&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slsSjF4ftb8z7jjaeHYQ-17" target="slsSjF4ftb8z7jjaeHYQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-17" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:&lt;br/&gt;宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;项目开发难点&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-18" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;用户使用其开发&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;场景和交互的原始素材易得，开发过程简便。&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="slsSjF4ftb8z7jjaeHYQ-19" target="slsSjF4ftb8z7jjaeHYQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-19" value="&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体;&quot;&gt;视频&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="153" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="slsSjF4ftb8z7jjaeHYQ-20" target="slsSjF4ftb8z7jjaeHYQ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-20" value="&lt;span style=&quot;background-color: initial;&quot; lang=&quot;EN-US&quot;&gt;VR&lt;font face=&quot;宋体&quot;&gt;照片&lt;/font&gt;&lt;/span&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="277" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-21" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;人物关键&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; background-color: initial;&quot;&gt;动作视频&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="695" y="350" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-22" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;关键流程的多模态数据&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-23" value="多张2D照片&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-24" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;导入数据，建立&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-size:&lt;br/&gt;10.5pt;mso-bidi-font-size:12.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;全景场景&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-25" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;将多模态数据逐个导入，实现软件规定的关键流程&lt;/span&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;交互&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-26" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;导入多张&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;2D&lt;/span&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;照片拼接生成&lt;/span&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;全景场景&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="slsSjF4ftb8z7jjaeHYQ-27" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;提取动作数据，转化为&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;FAX&lt;/span&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:Calibri;&lt;br/&gt;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;文件，赋值给软件中的虚拟人物，实现与人物的&lt;/span&gt;&lt;b&gt;&lt;span lang=&quot;EN-US&quot;&gt;VR&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin&quot;&gt;交互&lt;/span&gt;&lt;/b&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
